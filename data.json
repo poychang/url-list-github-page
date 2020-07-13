@@ -1,0 +1,32 @@
+[
+    {
+        "group": "poychang",
+        "name": "Poy Chang's blog",
+        "url": "https://blog.poychang.net",
+        "description": "Host on GitHub Page"
+    },
+    {
+        "group": "poychang",
+        "name": "Poy Chang's blog",
+        "url": "https://poychang.github.io",
+        "description": "Host on GitHub Page with domain itself"
+    },
+    {
+        "group": "study4",
+        "name": "Study4",
+        "url": "http://study4.tw",
+        "description": "We are Study4"
+    },
+    {
+        "group": "study4",
+        "name": "Study4 Facebook 粉絲專頁",
+        "url": "https://www.facebook.com/Study4.tw",
+        "description": "We are Study4"
+    },
+    {
+        "group": "study4",
+        "name": "Study4 Facebook 社團",
+        "url": "https://www.facebook.com/groups/study4tw",
+        "description": "We are Study4"
+    }
+]
